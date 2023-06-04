@@ -1,15 +1,18 @@
 # main links links
 main:
 
-  - title: "CV in French"
-    url: /files/Mohamed_HmamouchResume_.pdf
+  - title: "Portfolio"
+      url: /Portfolio/
+
 
   - title: "Challenges"
     url: /Challenges/
-        
-  - title: "Portfolio"
-    url: /Portfolio/
     
+
+  - title: "CV in French"
+    url: /files/Mohamed_HmamouchResume_.pdf
+
+
   - title: "CV in English"
     url: /files/MohamedHmamouchResume_en.pdf
 
