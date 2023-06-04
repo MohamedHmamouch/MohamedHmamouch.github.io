@@ -2,7 +2,7 @@
 main:
 
   - title: "CV in French"
-    url: /files/cv/Mohamed_HmamouchResume_.pdf
+    url: /files/Mohamed_HmamouchResume_.pdf
 
   - title: "Challenges"
     url: /Challenges/
@@ -11,5 +11,5 @@ main:
     url: /Portfolio/
     
   - title: "CV in English"
-    url: /files/cv/MohamedHmamouchResume_en.pdf
+    url: /files/MohamedHmamouchResume_en.pdf
 
